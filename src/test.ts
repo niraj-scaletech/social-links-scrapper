@@ -1,3 +1,3 @@
-import GetGoogleLinks from "./index";
+import GetSocialLinkData from "./index";
 
-GetGoogleLinks({ searches: `https://www.instagram.com/jl_struff/\nhttps://www.facebook.com/jlstruff/\nhttps://twitter.com/struffitennis` });
+GetSocialLinkData({ searches: `https://www.instagram.com/jl_struff/\nhttps://www.facebook.com/jlstruff/\nhttps://twitter.com/struffitennis` });
