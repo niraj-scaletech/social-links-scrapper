@@ -14,5 +14,6 @@
     "short_description": "Scraper for getting the the Statics from the social media account",
     "version": "1.0.0",
     "documentation_file": "./documentation.md",
-    "input_file": "./input.json"
+    "input_file": "./input.json",
+    "app_id": "1a0ce7d7-0da8-4a98-a88a-a855075d2e6d"
 }
